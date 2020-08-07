@@ -1,0 +1,36 @@
+
+
+body{
+    background-image: url(images/anakanak.jpg);
+    
+    background-attachment: fixed;
+}
+
+
+h1{ color: yellow;
+   
+}
+h2{ 
+    color:yellow;
+    margin-top: 2rem;
+}
+.profile{
+    
+    width: 300px; 
+    display: block;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.anakmami{
+    width: 30px;
+}
+div {
+    background-image: url(akuaja.jpg);
+    color: yellow;
+    margin-top: 150px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+
+}
